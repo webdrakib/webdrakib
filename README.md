@@ -21,11 +21,11 @@
 
 <h3 align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Duolingo-Clone)](https://github.com/muraakib/Rtube.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Typing-Test-Game)](https://github.com/muraakib/RevInt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Hangman-Game)](https://github.com/muraakib/Umaaa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Tic-Tac-Toe)](https://github.com/muraakib/Tiny-one)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=3D-Portfolio)](https://github.com/muraakib/Ready/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Rtube.com)](https://github.com/muraakib/Rtube.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=RevInt)](https://github.com/muraakib/RevInt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Umaaa)](https://github.com/muraakib/Umaaa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Tiny-one)](https://github.com/muraakib/Tiny-one)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Ready)](https://github.com/muraakib/Ready/)
 
 </h3>
 
