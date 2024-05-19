@@ -6,7 +6,7 @@
 
 <h3 align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muraakib&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muraakib&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 <img src="https://komarev.com/ghpvc/?username=muraakib&label=Profile%20views&color=0e75b6&style=flat" alt="muraakib" />
@@ -47,19 +47,19 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muraakib"/>
 </p>
 <p align="center">
-   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muraakib&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muraakib&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muraakib&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=000000&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muraakib&langs_count=8&layout=compact&theme=bg_color=bg_color=000000&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
 
 <br />
 
-<a href="https://github.com/muraakib/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muraakib&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/muraakib/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muraakib&bg_color=000000&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
 <h3 align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 </h3>
 
