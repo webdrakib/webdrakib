@@ -13,10 +13,10 @@
 
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/muraakib.svg)](https://user-badge.committers.top/pakistan/muraakib)
+[![committers.top badge](https://user-badge.committers.top/BD/webdrakib.svg)](https://user-badge.committers.top/BD/webdrakib)
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muraakib" alt="muraakib" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib" alt="webdrakib" /></a>
 </h3>
 
 <h3 align="center">
