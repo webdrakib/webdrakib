@@ -13,7 +13,7 @@
 
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/BD/webdrakib.svg)](https://user-badge.committers.top/BD/webdrakib)
+[![committers.top badge](https://user-badge.committers.top/bd/webdrakib.svg)](https://user-badge.committers.top/bd/webdrakib)
 
 <br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib" alt="webdrakib" /></a>
