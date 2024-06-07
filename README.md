@@ -9,23 +9,23 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrakib&data=followers,repositories,stars,commits&theme=nautilus&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
-<img src="https://komarev.com/ghpvc/?username=webdrakib &label=Profile%20views&color=0e75b6&style=flat" alt="webdrakib" />
+<img src="https://komarev.com/ghpvc/?username=webdrakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdrakib" />
 
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/bd/webdrakib.svg)](https://user-badge.committers.top/bd/webdrakib)
+[![committers.top badge](https://user-badge.committers.top/bangladesh/webdrakib.svg)](https://user-badge.committers.top/bangladesh/webdrakib)
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib" alt="webdrakib" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib&theme=darkhub" alt="webdrakib" /></a>
 </h3>
 
 <h3 align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&repo=Rtube.com)](https://github.com/webdrakib/Rtube.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&repo=RevInt)](https://github.com/webdrakib/RevInt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&repo=Umaaa)](https://github.com/webdrakib/Umaaa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&repo=Tiny-one)](https://github.com/webdrakib/Tiny-one)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&repo=Ready)](https://github.com/webdrakib/Ready/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&theme=radical&repo=Rtube.com)](https://github.com/webdrakib/Rtube.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&theme=radical&repo=RevInt)](https://github.com/webdrakib/RevInt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&theme=radical&repo=Umaaa)](https://github.com/webdrakib/Umaaa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&theme=radical&repo=Tiny-one)](https://github.com/webdrakib/Tiny-one)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=webdrakib&theme=radical&repo=Ready)](https://github.com/webdrakib/Ready/)
 
 </h3>
 
@@ -44,16 +44,16 @@
 </h3>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdrakib"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdrakib&theme=radical"/>
 </p>
 <p align="center">
-   <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib &show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=000000&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=webdrakib&langs_count=8&layout=compact&theme=bg_color=bg_color=000000&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
+   <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=webdrakib&theme=radical&langs_count=8&layout=compact" height="192px"/></a>
 </p>
 
 <br />
 
-<a href="https://github.com/webdrakib/github-readme-activity-graph"><img alt="Rakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=webdrakib &bg_color=000000&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/webdrakib/github-readme-activity-graph"><img alt="Rakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=webdrakib&theme=radical" /></a>
 
 <br />
 
