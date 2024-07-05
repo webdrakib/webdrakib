@@ -69,7 +69,12 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-<br/>  
+<br/>
+
+<h3 align="center">Support:</h3>
+<p align="center">
+<a align='center' href="https://patreon.com/webdrakib"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its WebdRakib" /></a>
+</p>
 
 <h3 align="center">
   
