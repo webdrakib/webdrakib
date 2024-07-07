@@ -5,8 +5,14 @@
 
 </h3>
 --->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<br><br>
 
+<!---
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+--->
+
+
 <h3 align="center">
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrakib&data=followers,repositories,stars,commits&theme=nautilus&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
