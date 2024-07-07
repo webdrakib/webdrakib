@@ -53,8 +53,10 @@
 
 <br />
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<!---
 <a href="https://github.com/webdrakib/github-readme-activity-graph"><img alt="Rakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=webdrakib&theme=radical" /></a>
-
+--->
 <br />
 <!---
 <h3 align="center">
