@@ -56,13 +56,13 @@
 <a href="https://github.com/webdrakib/github-readme-activity-graph"><img alt="Rakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=webdrakib&theme=radical" /></a>
 
 <br />
-
+<!---
 <h3 align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=nautilus)
 
 </h3>
-
+--->
 <br/>
 <!---<div align="center">
 <a href="https://github.com/webdrakib" target="_blank">
