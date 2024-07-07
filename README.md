@@ -73,7 +73,9 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 <a align='center' href="https://patreon.com/webdrakib"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="its WebdRakib" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </p>
 
 <h3 align="center">
