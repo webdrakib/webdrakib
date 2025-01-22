@@ -95,7 +95,7 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdrakib&theme=radical"/>
+  <img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=webdrakib&theme=radical)](https://git.io/streak-stats)"/>
 </p>
 <p align="center">
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
