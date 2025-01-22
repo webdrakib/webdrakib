@@ -94,9 +94,8 @@
 </h3>
 <br/>
 
-<p align="center">
-  <img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=webdrakib&theme=radical)](https://git.io/streak-stats)"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=webdrakib&theme=radical)](https://git.io/streak-stats)
+
 <p align="center">
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=webdrakib&theme=radical&langs_count=8&layout=compact" height="192px"/></a>
