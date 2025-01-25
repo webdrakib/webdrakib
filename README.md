@@ -11,7 +11,7 @@
 <h3 align="center">
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrakib&data=followers,repositories,stars,commits&theme=nautilus&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrakib&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 <img src="https://komarev.com/ghpvc/?username=webdrakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdrakib" />
