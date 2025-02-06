@@ -38,8 +38,8 @@ Hi! I'm a passionate Full-Stack Web Developer dedicated to crafting high-quality
 
 ---
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webdrakib&theme=transparent)](https://git.io/streak-stats) 
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=webdrakib&theme=dark)](https://git.io/streak-stats) 
 
 <p align="center">
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
