@@ -41,12 +41,12 @@ Hi! I'm a passionate Full-Stack Web Developer dedicated to crafting high-quality
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=webdrakib&theme=dark)](https://git.io/streak-stats) 
 
+</div>
 <p align="center">
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=webdrakib&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
    <a href="https://github.com/webdrakib/github-readme-stats"><img alt="Rakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=webdrakib&theme=radical&langs_count=8&layout=compact" height="192px"/></a>
   
 </p>
-</div>
 
 ## 💻 Skills & Technologies  
 
