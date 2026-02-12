@@ -14,14 +14,12 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrakib&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
-<img src="https://komarev.com/ghpvc/?username=webdrakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdrakib" />
+<img src="https://komarev.com/ghpvc/?username=webdrakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdrakib" /> <br/>
 
-<br/>
+[![committers.top badge](https://user-badge.committers.top/bangladesh/webdrakib.svg)](https://user-badge.committers.top/bangladesh/webdrakib) <br>
 
-[![committers.top badge](https://user-badge.committers.top/bangladesh/webdrakib.svg)](https://user-badge.committers.top/bangladesh/webdrakib)
-
-<br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib&theme=darkhub" alt="webdrakib" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib&theme=darkhub" alt="webdrakib"></a>
+ 
 </h3>
 
 ---
