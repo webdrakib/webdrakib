@@ -18,7 +18,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/bangladesh/webdrakib.svg)](https://user-badge.committers.top/bangladesh/webdrakib) <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrakib&theme=darkhub" alt="webdrakib"></a>
+[![webdrakib](https://github-profile-trophy.vercel.app/?username=webdrakib&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
  
 </h3>
 
